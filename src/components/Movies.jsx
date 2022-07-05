@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { FaHeart, FaRegHeart } from "react-icons/fa";
 
 const Movies = ({ item }) => {
